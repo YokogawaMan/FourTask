@@ -1,8 +1,0 @@
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\bin\Debug\FindMinMax.exe.config
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\bin\Debug\FindMinMax.exe
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\bin\Debug\FindMinMax.pdb
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\obj\Debug\FindMinMax.csproj.AssemblyReference.cache
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\obj\Debug\FindMinMax.csproj.SuggestedBindingRedirects.cache
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\obj\Debug\FindMinMax.csproj.CoreCompileInputs.cache
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\obj\Debug\FindMinMax.exe
-C:\Users\denis\OneDrive\Рабочий стол\GB\Разработчик. Основной блок (1 четверть)\Знакомство с языками программирования\Задача №2\FindMinMax\FindMinMax\obj\Debug\FindMinMax.pdb
